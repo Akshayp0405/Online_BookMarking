@@ -1,0 +1,21 @@
+.bookmark
+{
+	margin: auto;
+    width: 60%;
+    padding: 10px;
+  
+    
+}
+h1{
+	font-size: 50px;
+	text-align: center;
+	
+}
+.bookmark div a{
+	font-size: 20px;
+	align-items: center;
+
+}
+.bookmark div h3{
+	font-size: 40px;
+}

@@ -1,0 +1,62 @@
+
+/*.p1 label{
+
+	margin-top: 10px;
+	margin-left: 30%;
+	float: left;
+
+
+}
+
+
+*/
+
+
+.p1{
+
+	margin-top: 200px;
+	margin-left: ;
+	float: left;
+
+
+}
+.p3 {
+
+	margin-top:270px ;
+	margin-left: 100px;
+	float: left;
+		
+
+}
+.p2{
+
+	margin-top:200px ;
+	margin-right: 20% ;
+	float: right;
+}
+.p2 {
+
+	margin-top: ;
+	margin-left: ;
+	float: left;	
+	
+}
+
+
+div.gallery:hover {
+    border: 3px solid #777;
+
+}
+
+div.gallery img {
+    
+
+    padding: 7px;
+}
+
+.g2{
+    padding: -1px;
+}
+.g3 {
+    padding: 20px;
+}
